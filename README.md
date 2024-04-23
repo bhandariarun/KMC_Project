@@ -3,7 +3,7 @@
 - I'm doing project in Mental Health all over the world Data
 
 # Before starting Project
-  ## Setup
+  ## Setup :
     - When I start my project I've to activate venv because venv cannot affect other project when we install package or upgrade       the version in the current project
     - cmd(according to our projects)
         - Python3 -m venv venv
@@ -15,3 +15,6 @@
     2.Pycharm
     3.Colab
     4.Jupyter Notebook
+
+  ## Data :
+    - Extract the data from Kaggle. The dataset are above 90k rows and 10 columns above
