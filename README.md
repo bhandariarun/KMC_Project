@@ -9,3 +9,9 @@
         - Python3 -m venv venv
         - Then venv/Scrpits/activate
     - After that you have to create requirements.txt and add the package that you required and install requirements.txt as pip       install -r requirements.txt
+
+  ## Tools that are used in this Project :
+    1.VSCODE
+    2.Pycharm
+    3.Colab
+    4.Jupyter Notebook
