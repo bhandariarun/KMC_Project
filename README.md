@@ -9,7 +9,7 @@
     - cmd(according to our projects)
         - Python3 -m venv venv
         - Then venv/Scrpits/activate
-    - After that you have to create requirements.txt and add the package that you required and install 
+    - After that I've create requirements.txt and add the package that I required and install 
      requirements.txt as pip install -r requirements.txt
 
   ## Tools that are used in this Project :
