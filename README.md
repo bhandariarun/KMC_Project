@@ -49,8 +49,8 @@
 # Remaining of the process you have to open the file for Details : 
   - https://github.com/bhandariarun/KMC_Project/blob/main/Minor_Project_Machine_Learning.ipynb
 
-# Data Science and Machine Learning training was organized by Kathmandu Metropolitan City
+## Data Science and Machine Learning training was organized by Kathmandu Metropolitan City
 
 This course duration is almost 2.5 months running
 
-# Thank you Kathmandu Metropolitan City for providing skill based Training course
+## Thank you Kathmandu Metropolitan City for providing skill based Training course
