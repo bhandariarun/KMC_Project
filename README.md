@@ -12,14 +12,31 @@
     - After that I've create requirements.txt and add the package that I required and install 
      requirements.txt as pip install -r requirements.txt
 
+  ## Data :
+    - Extract the data from Kaggle. The dataset are above 90k rows and 10 columns above
+
+  ## Process of Data Science :
+    a) Focus on understanding the objectives and requirements of the project
+    Data Understanding
+    a) Collect initial data
+    b) Describe data
+    c) Explore data
+    d) Verify data quality
+    Data Preparation
+    a) Select data
+    b) Clean data
+    c) Construct data
+    d) Integrate data
+    e) Format data
+    Modeling
+    Evaluation
+
   ## Tools that are used in this Project :
     1.VSCODE
     2.Pycharm
     3.Colab
     4.Jupyter Notebook
 
-  ## Data :
-    - Extract the data from Kaggle. The dataset are above 90k rows and 10 columns above
 
   ## Library that are used in this projects :
     1. Numpy
