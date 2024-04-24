@@ -20,3 +20,12 @@
 
   ## Data :
     - Extract the data from Kaggle. The dataset are above 90k rows and 10 columns above
+
+  ## Library that are used in this projects :
+    1. Numpy
+    2. Pandas
+    3. Seaborn
+    4. Matplotlib
+    5. sklearn
+    6. ipywidgets
+    7. gradio
