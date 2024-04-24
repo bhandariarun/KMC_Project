@@ -45,3 +45,6 @@
     5. sklearn
     6. ipywidgets
     7. gradio
+
+# Remaining of the process you have to open the file for Details : 
+  - https://github.com/bhandariarun/KMC_Project/blob/main/Minor_Project_Machine_Learning.ipynb
